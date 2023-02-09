@@ -2,23 +2,7 @@
 import os 
 #top 
 def eduFunction():
-    print("hola soc l'edu")
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+    print("hola")
 
 #edu until here
 def olegFunction():
