@@ -43,6 +43,28 @@ def eduPathTwoTwo():
     print("You eat the apple.")
     print("It was poisoned.")
     print("You die.")
+    print("However, you are given a chance to be reborn as a new Giraffe. Would you like to? If so, press 1.")
+    choice = int(input())
+    if (choice == 1):
+        startOfGame()
+    else:
+        print("Well then. Rest in peace.")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 #edu until here
